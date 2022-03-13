@@ -54,3 +54,17 @@ Saída [23]
 [17]
 [ 9]
   </p>
+  <hr>
+  
+  <H2>2. Árvore Binária, Heap</H2>
+  <hr>
+  <h4>Questão 1 - Heap</h4>
+  <hr>
+   <h4>Questão 2 - Árvore Binária Estática</h4>
+  <hr>
+   <h4>Questão 3 - Heap + Largura</h4>
+  <hr>
+   <h4>Questão 4 - Heap + Profundidade</h4>
+  <hr>
+  
+  
