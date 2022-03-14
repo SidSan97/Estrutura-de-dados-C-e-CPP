@@ -67,4 +67,14 @@ Saída [23]
    <h4>Questão 4 - Heap + Profundidade</h4>
   <hr>
   
+   <H2>3. Ordenação</H2>
+  <hr>
+  <h4>Questão 1 - Selection Sort</h4>
+  <hr>
+   <h4>Questão 2 - Insertion Sort</h4>
+  <hr>
+   <h4>Questão 3 - Bubble Sort</h4>
+  <hr>
+   <h4>Questão 4 - Quicksort</h4>
+  <hr>
   
